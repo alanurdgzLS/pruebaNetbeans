@@ -15,6 +15,6 @@ public class Conexion {
     
    public static Connection getConnection(){
         return DriverManager.getConnection(JDBC_URL, JDBC_USER, JDBC_PASSWORD );
-    }
+    }///
     
 }

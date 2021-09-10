@@ -13,8 +13,8 @@ public class Conexion {
     private static final String JDBC_USER = "root";
     private static final String JDBC_PASSWORD = "admin123";
     
-    /*public static Connection getConnection(){
+   public static Connection getConnection(){
         return DriverManager.getConnection(JDBC_URL, JDBC_USER, JDBC_PASSWORD );
-    }*/
+    }
     
 }
